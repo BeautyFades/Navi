@@ -1,3 +1,4 @@
+### DESAFIO 2 ###
 ### Feito por Fellipe Domingues Fernandes para o teste Summer Job na Navi
 
 import math
@@ -12,7 +13,8 @@ for i in range(len(vector)):
 posLargest = vector.index(max(vector))
 avgValue = round(sum(vector) / len(vector), 2)
 
-print(f"O maior valor esta na posicao {posLargest}, e a media dos elementos deste vetor eh {avgValue}.")
+print("QUESTAO 2")
+print(f"O maior valor esta na posicao {posLargest}, e a media dos elementos deste vetor eh {avgValue}.\n")
 
 
 
